@@ -1,0 +1,12 @@
+﻿[Inserte aquí las respuestas a las preguntas del numeral 1]
+
+a. Crea una esfera para detectar el collider que tiene en un radio de 10, al detectar los objetos intenta objtener el componenete Enemy y si los objetos tienen este
+componente se define esta la direccion para disparar.
+
+b. Si, cuando el enemigo colisiona con el player, se cambia la variable "canMove" a false y este no se puede mover
+
+c. Con el input se obtiene true si el jugador presiona la tecla espacio
+
+d. Tiene la cantidad de ataque, la cantidad de vida, el color del mesh y la velocidad a la que se mueve.
+
+e. para  checkear que la vala no se colisione con el mismo objeto que lo ha instanciado.
