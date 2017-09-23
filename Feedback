@@ -1,0 +1,18 @@
+Feedback.
+
+1. No explica correctamente. Qué collider se detecta? Qué pasa cuando más de un objeto entre los detectados tiene el componente? (0.15)
+2. Falta el caso en que la velocidad del enemigo sea 0 (0.2)
+3. ??? Presionar espacio, en el código original, no "obtiene" ningún 'true' (0.0)
+4. La pregunta era qué características tenían esas propiedades, no cuáles eran las propiedades del Enemy (0.0)
+5. OK (0.3). Por cierto, ojo a la ortografía.
+
+Código
+1. OK (0.5)
+2. OK (0.5)
+3. OK (1.0)
+4. El botón se habilita en un tiempo quemado, no configurable en inspector como se pidió (0.8)
+5. No hay pool (0.0.)
+
+Nota: Te voy a penalizar con 0.5 por no seguir la instrucción. Se pidió un fork al repositorio original, no descargarlo y subir todo el proyecto.
+
+Total: 3.45
